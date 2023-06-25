@@ -128,9 +128,9 @@ footer {
 
 <div class="w3-container">
 <br><br>
-  <h1 align="center"><span style="font-family:'Times New Roman', Times, serif">ADD TITLE OF ARTICLE 1</span></h1>
+  <h1 align="center"><span style="font-family:'Times New Roman', Times, serif">EXPLORING ALBUM DISTRIBUTION FORMATS: 2000-2020</span></h1>
 
-  <h2 align="center"><span style="font-family:'Times New Roman', Times, serif"><i>A story written by</i></span></h2>
+  <h2 align="center"><span style="color:Gray; font-family:'Times New Roman', Times, serif"><i>A story written by Elena Maurizzi and Iryna Filyuk</i></span></h2>
 <br>
   <p align="justify">It goes without saying that, nowadays, the music industry is vibrant and dynamic unlike ever before. 
     As new technologies and distribution platforms emerge, the music industry must change alongside them, adapting to and 
@@ -142,7 +142,7 @@ footer {
     our curiosity about distribution formats of albums released between 2000-2020, and from our desire to investigate the 
     matter from a statistical point of view, in light also of the general renewed interest in vinyl.</p>
 
- <p align="justify">Over the last two decades, a total amount of around 144,500 albums have been released (according to Wikidata), 
+ <p align="justify">According to Wikidata, a total amount of around 144,500 albums have been released over the last two decades, 
     but our data sample is considerably smaller: it comprises approximately 35,000 albums, of which 40% have 
     been released on CD, 34% on a streaming platform, and 4% on vinyl. This should come as no surprise. Cast your mind back to the 
     early 2000s, a time dominated by CDs – the primary medium through which music enthusiasts as well as casual listeners could enjoy 
@@ -150,30 +150,30 @@ footer {
     marking the <b>downfall of CDs</b>. The fact that I am currently writing on a laptop with no CD player is a testament to that. Simply 
     put, in this day and age, CDs seem to be anachronistic, a thing of the past that – having outgrown its usefulness – no longer has 
     a place in our modern world. In light of all this, one may be inclined to say that, nowadays, digital is rising and physical is 
-    dying. Not exactly: in recent years, vinyl records have made an extraordinary comeback, capturing once again the hearts of many. 
+    dying. Not exactly: in recent years, <b>vinyl records have made an extraordinary comeback</b>, capturing once again the hearts of many. 
     Check the line charts below to learn more about the matter.</p>
 
-    <img src="linechartCD.jpg" alt="CD linechart" style="width: 50%;">
- <br>
- <br>
-    <img src="linechartvinyls.jpg" alt="vinyls linechart" style="width: 50%;">
+    <img src="chartCD.jpg" alt="CD linechart" width="525" height="274">
+    <img src="chartvinili.png" alt="vinyls linechart" width="525" height="274">
 
-   <p align="justify">We proceed on our inquiry, by delving now into the dynamic world of music streaming platforms. Have you ever 
+    <p align="justify">We proceed on our inquiry, by delving into the dynamic world of <b>music streaming platforms</b>. Have you ever 
         wondered how this new way of consuming music has emerged and spread across the globe, managing to dethrone the once 
         much-beloved CDs? Through the analysis of the currently existing streaming platforms, their launching date and whereabouts, 
-        we gain remarkable insight into the nature of the revolutionary phenomenon that is the music streaming industry. <br>
-   Our virtual journey is finally coming to an end, and now it is your turn to embark on your own interactive adventure.
+        we gain remarkable insight into the nature of the revolutionary phenomenon that is the music streaming industry.</p>
+  
+  <p align="justify">Our virtual journey is finally coming to an end, and now it is your turn to embark on your own interactive adventure. 
         Are you ready? Imagine being able to uncover valuable information about your favourite albums – and all this with just a 
         few clicks. Our text search feature allows you to do precisely that. By typing any album title, a wealth of information is 
-        revealed to you: from the artist behind it to the release date, from the genre to the available distribution formats. Check 
-        our data story on <a href="https://melody-data.github.io/stories/published_stories/story_1687272149.437923.html">Melody</a> and 
+        revealed to you: from the artist behind it to the release date, from the genre to the available distribution formats. Check our
+    <a href="https://melody-data.github.io/stories/published_stories/story_1687272149.437923.html">data story</a> on Melody and 
         let us guide you through the ever-changing landscape of the music industry, its major distribution formats, and much more!</p>
+
+  <img src="mappa.jpg" alt="vinyls linechart" width="1055" height="440">
 
 
 <br><br><br><br>
 
 </div>
-
 
 
 <br><br>
