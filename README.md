@@ -142,8 +142,8 @@ footer {
     our curiosity about distribution formats of albums released between 2000-2020, and from our desire to investigate the 
     matter from a statistical point of view, in light also of the general renewed interest in vinyl.</p>
 
- <p align="justify">Over the last two decades, a total amount of almost 144,500 albums have been released (according to Wikidata), 
-    but the data sample for our analysis is considerably smaller: it comprises around 35,000 albums, of which approximately 40% have 
+ <p align="justify">Over the last two decades, a total amount of around 144,500 albums have been released (according to Wikidata), 
+    but our data sample is considerably smaller: it comprises approximately 35,000 albums, of which 40% have 
     been released on CD, 34% on a streaming platform, and 4% on vinyl. This should come as no surprise. Cast your mind back to the 
     early 2000s, a time dominated by CDs – the primary medium through which music enthusiasts as well as casual listeners could enjoy 
     music. Now, fast forward to today, and you will notice a fascinating shift in trends: streaming has replaced physical formats, 
@@ -151,18 +151,18 @@ footer {
     put, in this day and age, CDs seem to be anachronistic, a thing of the past that – having outgrown its usefulness – no longer has 
     a place in our modern world. In light of all this, one may be inclined to say that, nowadays, digital is rising and physical is 
     dying. Not exactly: in recent years, vinyl records have made an extraordinary comeback, capturing once again the hearts of many. 
-    Check our line charts to learn more about the matter.</p>
+    Check the line charts below to learn more about the matter.</p>
 
     <img src="linechart.jpg" alt="CD linechart" style="width: 50%;">
  <br>
  <br>
     <img src="linechart.jpg" alt="vinyls linechart" style="width: 50%;">
 
-    <p align="justify">We proceed on our inquiry and delve now into the dynamic world of music streaming platforms. Have you ever 
+    <p align="justify">We proceed on our inquiry, by delving now into the dynamic world of music streaming platforms. Have you ever 
         wondered how this new way of consuming music has emerged and spread across the globe, managing to dethrone the once 
         much-beloved CDs? Through the analysis of the currently existing streaming platforms, their launching date and whereabouts, 
-        we gain remarkable insight into the nature of the revolutionary phenomenon that is the music streaming industry.
-        Our virtual journey is finally coming to an end, and now it is your turn to embark on your own interactive adventure. 
+        we gain remarkable insight into the nature of the revolutionary phenomenon that is the music streaming industry.</p>
+    <p align="justify">Our virtual journey is finally coming to an end, and now it is your turn to embark on your own interactive adventure. 
         Are you ready? Imagine being able to uncover valuable information about your favourite albums – and all this with just a 
         few clicks. Our text search feature allows you to do precisely that. By typing any album title, a wealth of information is 
         revealed to you: from the artist behind it to the release date, from the genre to the available distribution formats. Check 
