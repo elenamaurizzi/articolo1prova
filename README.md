@@ -36,7 +36,7 @@ body {
 <body>
 
 <div class="topnav">
-  <a href="https://elenamaurizzi.github.io/prova/" href="#home">HOME</a>
+  <a href="https://elenamaurizzi.github.io/home/" href="#home">HOME</a>
   <a class="active">ARTICLE 1</a>
   <a href="https://elenamaurizzi.github.io/article2prova/">ARTICLE 2</a>
   <a href="#ARTICLE 3 LINK">ARTICLE 3</a>
