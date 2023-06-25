@@ -39,7 +39,7 @@ body {
   <a href="https://elenamaurizzi.github.io/home/" href="#home">HOME</a>
   <a class="active">ARTICLE 1</a>
   <a href="https://elenamaurizzi.github.io/article2prova/">ARTICLE 2</a>
-  <a href="#ARTICLE 3 LINK">ARTICLE 3</a>
+  <a href="https://elenamaurizzi.github.io/article3prova/">ARTICLE 3</a>
   <a href="https://elenamaurizzi.github.io/report/">OUR REPORTS</a>
 </div>
 
