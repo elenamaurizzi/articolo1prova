@@ -153,10 +153,10 @@ footer {
     dying. Not exactly: in recent years, vinyl records have made an extraordinary comeback, capturing once again the hearts of many. 
     Check the line charts below to learn more about the matter.</p>
 
-    <img src="linechart.jpg" alt="CD linechart" style="width: 50%;">
+    <img src="linechartCD.jpg" alt="CD linechart" style="width: 50%;">
  <br>
  <br>
-    <img src="linechart.jpg" alt="vinyls linechart" style="width: 50%;">
+    <img src="linechartvinyls.jpg" alt="vinyls linechart" style="width: 50%;">
 
    <p align="justify">We proceed on our inquiry, by delving now into the dynamic world of music streaming platforms. Have you ever 
         wondered how this new way of consuming music has emerged and spread across the globe, managing to dethrone the once 
